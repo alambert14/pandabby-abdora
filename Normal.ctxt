@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=lm\ m\ a
+comment0.target=Normal(ListMaker,\ MiddleMan,\ AppFrame)
+comment0.text=\r\n\ Constructor\ for\ the\ Shuffle\ class\r\n\ @param\ ListMaker\ class\ which\ makes\ the\ shuffled\ and\ normal\ lists\r\n\ @param\ MiddleMan\ the\ class\ which\ allows\ threads\ to\ interact\r\n\ @param\ AppFrame\ the\ frame\ the\ app\ runs\ in\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Method\ run\ when\ the\ thread\ it\ started,\ plays\ through\ a\ list\ of\ songs.\r\n
+numComments=2

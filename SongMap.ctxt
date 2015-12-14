@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SongMap()
+comment0.text=\r\n\ Constructor\ for\ the\ SongMap\ class\r\n
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ Initializes\ all\ of\ the\ songs\ and\ stores\ them\ in\ the\ master\ list\ of\ songs\r\n
+comment2.params=
+comment2.target=Song[]\ getSongList()
+comment2.text=\r\n\ @return\ the\ list\ of\ songs\r\n
+numComments=3

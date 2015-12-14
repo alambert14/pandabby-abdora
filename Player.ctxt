@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ m\ sc
+comment0.target=Player(Song,\ MiddleMan,\ SongChooser)
+comment0.text=\r\n\ Constructor\ for\ the\ Player\ class\r\n\ @param\ Song\ to\ be\ played\ by\ the\ player\r\n\ @param\ MiddleMan\ class\ that\ allows\ the\ threads\ to\ interact\r\n\ @param\ SongChooser\ either\ a\ Shuffle\ or\ Normal\ class\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Method\ executed\ when\ the\ thread\ is\ run,\ plays\ a\ song\ from\ a\ WAV\ file.\r\n
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=AppFrame(MiddleMan)
+comment0.text=\r\n\ Constructor\ for\ the\ AppFrame\ class\r\n\ @param\ MiddleMan\ the\ class\ that\ allows\ the\ threads\ to\ interact.\r\n
+comment1.params=m
+comment1.target=void\ paintNewPanel(Main)
+comment1.text=\r\n\ This\ method\ paints\ a\ new\ TextPanel\ in\ order\ for\ the\ program\ to\ "start\ over."\r\n
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment2.text=\r\n\ @return\ String\r\n
+comment3.params=s
+comment3.target=void\ setText(java.lang.String)
+comment3.text=\r\n\ @param\ String\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFile()
+comment4.text=\r\n\ @return\ String\r\n
+comment5.params=f
+comment5.target=void\ setFile(java.lang.String)
+comment5.text=\r\n\ @param\ String\r\n
+comment6.params=
+comment6.target=TextPanel\ getPanel()
+comment6.text=\r\n\ @return\ TextPanel\ currently\ running\ on\ the\ frame.\r\n
+numComments=7

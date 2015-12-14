@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EndPanel()
+comment0.text=\r\n\ Constructor\ for\ the\ EndPanel\ class\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ @param\ Graphics\r\n\ Paints\ the\ panel\ with\ a\ message\ stating\ that\ the\ user\ ran\ out\ of\ songs.\r\n
+numComments=2

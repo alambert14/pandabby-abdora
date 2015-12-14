@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=genre
+comment0.target=ListMaker(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ the\ ListMaker\ class\r\n\ @param\ String\ the\ genre\ to\ make\ the\ list\ from.\r\n
+comment1.params=
+comment1.target=Song[]\ getGenreList()
+comment1.text=\r\n\ @return\ Song[]\ the\ unshuffled\ list\ of\ one\ genre\r\n
+comment2.params=
+comment2.target=Song[]\ getShuffled()
+comment2.text=\r\n\ @return\ Song[]\ the\ shuffled\ list\ of\ one\ genre\r\n
+numComments=3

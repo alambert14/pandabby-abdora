@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=f\ m
+comment0.target=Main(AppFrame,\ MiddleMan)
+comment0.text=\r\n\ Constructor\ for\ the\ Main\ class\r\n\ @param\ AppFrame\ the\ frame\ of\ the\ application\r\n\ @param\ MiddleMan\ the\ class\ interfering\ between\ different\ threads\r\n
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ This\ class\ initializes\ all\ of\ the\ components\ of\ the\ application\ and\ can\ be\ run\ multiple\ \r\n\ times.\r\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\r\n\ This\ method\ is\ run\ when\ the\ user\ presses\ "go"\ and\ initializes\ all\ of\ the\ threads\ and\ runs\ them.\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ This\ method\ checks\ for\ events\ from\ the\ GUI\ and\ reacts\ accordingly.\r\n
+comment4.params=
+comment4.target=javax.swing.JRadioButton\ getRadioS()
+comment4.text=\r\n\ This\ method\ returns\ one\ of\ the\ radio\ buttons\ for\ use\ by\ the\ TextPanel.\r\n
+comment5.params=
+comment5.target=javax.swing.JRadioButton\ getRadioN()
+comment5.text=\r\n\ This\ method\ returns\ one\ of\ the\ radio\ buttons\ for\ us\ by\ the\ TextPanel.\r\n
+numComments=6
